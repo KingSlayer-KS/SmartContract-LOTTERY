@@ -27,11 +27,13 @@ def start_lottery():
 def enter_lottery():
     account = get_account()
     lottery = Lottery[-1]
-    value = lottery.getEntrenceFee() 
-    tx = lottery.enter({"from": account, "value": value})
+    value = lottery.getEntrenceFee()
+    tx = lottery.enter({"from": account, "value": value}) 
+    #adbhut_print("Enter ur amount vere:","$")
+    #val=input()
+    #tx = lottery.enter({"from": account, "value": Web3.toWei(val,"ether")})
     tx.wait(1)
     adbhut_print("You entered the lottery!","+")
-    return lottery.getEntrenceFee() 
     
 def end_lottery():
     account = get_account()
