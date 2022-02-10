@@ -12,6 +12,6 @@
 ## Contract address for rinkeby ethersacan
     0x6AEfe817629bEDFb9E0b33dA20fB0D58A76A1F42 
     
-[] [link for rinkeby ethersacan](https://rinkeby.etherscan.io/address/0x6AEfe817629bEDFb9E0b33dA20fB0D58A76A1F42)
++ [ ] [SCs rinkeby ethersacan link](https://rinkeby.etherscan.io/address/0x6AEfe817629bEDFb9E0b33dA20fB0D58A76A1F42)
 
 
