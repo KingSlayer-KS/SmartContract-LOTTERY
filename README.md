@@ -3,8 +3,15 @@
     
     1 EntrenceFees
     
-    2 Duration/When will the winner anounced
+    2 Duration/
+    
+    3.When will the winner anounced
 
-    3 Selection of random Winner
+    4.Selection of random Winner{the trickiest one}
+    
+## Contract address for rinkeby ethersacan
+    0x6AEfe817629bEDFb9E0b33dA20fB0D58A76A1F42 
+    
+[] [link for rinkeby ethersacan](https://rinkeby.etherscan.io/address/0x6AEfe817629bEDFb9E0b33dA20fB0D58A76A1F42)
 
 
