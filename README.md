@@ -1,4 +1,4 @@
-# LOTTERY...!!
+## LOTTERY...!!
 - When thinking of a lottery variables that comes to mind are:
     
     1 EntrenceFees
